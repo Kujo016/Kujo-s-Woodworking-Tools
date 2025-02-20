@@ -1,0 +1,15 @@
+# License for Kujo's Custom Tools
+
+Copyright (c) 2025 Kujo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software with the following restrictions:
+
+1. **Custom Tools Protection**: This license applies to the custom tools and macros developed by Kujo, including but not limited to `populate_spreadsheet.py`, `board_foot_calculator.py`, `board_layout_macro.py`, and `export_csv.py`.
+2. **MIT Permissions Apply**: The same permissions granted by the original MIT license apply to these tools: you may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the custom tools, provided that proper credit is given to Kujo.
+3. **Attribution Requirement**: Any public distribution must include this license and attribution to Kujo for the custom tools.
+
+## Disclaimer
+The software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
